@@ -1,0 +1,4 @@
+def Gyan(Okay, Not Okay)
+{
+if(Gyan==Ok)
+printf("Good to hear that");
